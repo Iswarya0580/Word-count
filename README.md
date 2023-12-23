@@ -1,8 +1,5 @@
 # Word-count
-```
-Develpoed By: Iswarya.P
-RegisterNumber:23013459
-```
+
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
@@ -32,6 +29,10 @@ Giving print statement for getting output
  
  ## PROGRAM:
  ```
+ 
+Develpoed By: Iswarya.P
+RegisterNumber:23013459
+
  with open("text.txt",'w')as fp:
   fp.write("Hello World")
   fp.write("\nWelcome to Python")
