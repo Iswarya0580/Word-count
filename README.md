@@ -46,7 +46,9 @@ print("Number of words={}".format(num_words))
 
 
 ### OUTPUT:
-![Alt text](no_of_words-1.png)
+
+ ![Alt text](word_count-1.png)
+ ![Alt text](<word_count 2-1.png>)
 
 
 
